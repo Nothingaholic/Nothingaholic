@@ -8,8 +8,6 @@
 <!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nothingaholic&show_icons=true&theme=dark)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nothingaholic&show_icons=true&theme=dark) -->
 
-<br/>
-
 ## Connect with me  
 <div align="center"><a href="https://www.linkedin.com/in/xuankhanh-nguyen-68a83419a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
