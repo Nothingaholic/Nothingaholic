@@ -3,7 +3,7 @@
 ### Hi there, I'm XuanKhanh Nguyen! 👋
 - I am a full-time Masters Student studying Data Science in the School of Engineering at Tufts University.
 
-<br/>
+<!-- <br/> -->
 
 <!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nothingaholic&show_icons=true&theme=dark)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nothingaholic&show_icons=true&theme=dark) -->
