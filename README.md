@@ -1,7 +1,6 @@
 # Nothingaholic
 
-### Hi there, I'm XuanKhanh Nguyen! 👋
-- I am a full-time Masters Student studying Data Science in the School of Engineering at Tufts University.
+I am a full-time Masters Student studying Data Science in the School of Engineering at Tufts University.
 
 <!-- <br/> -->
 
